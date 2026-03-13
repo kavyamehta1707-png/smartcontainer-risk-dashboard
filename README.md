@@ -1,6 +1,6 @@
 # smartcontainer-risk-dashboard
 # 🚢 SmartContainer Risk Intelligence System
-
+https://smartcontainer-risk-dashboard-4rkyt4xmcbxj3h39zfsudq.streamlit.app/
 > **AI-Powered Risk Detection for Global Port Security**  
 > Using machine learning and anomaly detection to prioritize container inspections.
 
@@ -302,7 +302,7 @@ The system is evaluated twice — once on the **training/test split** and again 
 ---
 
 ## 🖥️ Dashboard
-
+https://smartcontainer-risk-dashboard-4rkyt4xmcbxj3h39zfsudq.streamlit.app/
 The Streamlit dashboard provides port authorities with a real-time operational interface including:
 
 - 📊 **Overview metrics** — total containers processed, risk distribution counts
